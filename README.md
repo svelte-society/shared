@@ -19,3 +19,4 @@ Shared Resources for all Societies
 ![Twitter Header](https://user-images.githubusercontent.com/6764957/75638788-a87e7480-5bfb-11ea-9270-7c7552a40042.jpg)
 ![Twitter Profile Photo](https://user-images.githubusercontent.com/6764957/75638789-a9170b00-5bfb-11ea-9d55-6a814e3a1996.jpg)
 
+Vector files: https://www.figma.com/file/RQGRxvvzEAwkANdiRtXEmv/Svelte-materials?node-id=0%3A1
