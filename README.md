@@ -1,5 +1,10 @@
-# shared
-Shared Resources for all Societies
+# this repo is now archived
+
+please head to https://github.com/svelte-society/assets instead
+
+
+---
+
 
 ## How to setup a Svelte Meetup in your City
 
